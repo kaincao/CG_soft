@@ -1,0 +1,256 @@
+Houdini FX Version 16.5.571
+
+Platform:                 Windows 10.0.14393
+Operating System:         Windows 7 Ultimate x64
+Qt Version:               5.6.1
+
+Number of Cores:          8
+Physical Memory:          15.85 GB
+Number of Screens:        1
+    Screen 0:             2560 x 1440 at 0,0
+    Work Area 0:          2560 x 1384 at 0,0
+
+OpenGL Vendor:            NVIDIA Corporation
+OpenGL Renderer:          GeForce GTX 970/PCIe/SSE2
+OpenGL Version:           4.5.0 NVIDIA 384.94
+OpenGL Shading Language:  4.50 NVIDIA
+Detected:                 NVidia Consumer
+                          4096 MB
+                          384.94.0.0
+
+Supported Extensions not in OpenGL 3.3 (Version):
+    EXT_extensions_string                  
+    GL_ARB_base_instance                    (4.2)
+    GL_ARB_bindless_texture                
+    GL_ARB_bindless_texture                
+    GL_ARB_buffer_storage                   (4.4)
+    GL_ARB_compatibility                   
+    GL_ARB_compute_shader                   (4.3)
+    GL_ARB_debug_output                    
+    GL_ARB_gpu_shader5                      (4.0)
+    GL_ARB_gpu_shader_fp64                  (4.0)
+    GL_ARB_multi_bind                       (4.4)
+    GL_ARB_program_interface_query          (4.3)
+    GL_ARB_robustness                      
+    GL_ARB_sample_shading                   (4.0)
+    GL_ARB_separate_shader_objects          (4.1)
+    GL_ARB_shader_image_load_store          (4.2)
+    GL_ARB_shader_storage_buffer_object     (4.3)
+    GL_ARB_shading_language_packing         (4.2)
+    GL_ARB_tessellation_shader              (4.0)
+    GL_ARB_texture_buffer_object_rgb32      (4.0)
+    GL_ARB_texture_filter_anisotropic       (4.6)
+    GL_ARB_transform_feedback3              (4.0)
+    GL_ARB_vertex_attrib_64bit              (4.1)
+    GL_EXT_abgr                            
+    GL_EXT_blend_minmax                    
+    GL_EXT_direct_state_access             
+    GL_KHR_debug                            (4.3)
+    GL_NVX_gpu_memory_info                 
+    GL_NV_gpu_shader5                      
+    WGL_EXT_swap_control                   
+
+Unsupported OpenGL Extensions used by Houdini:
+    GL_ATI_meminfo                         
+ 
+OpenGL Limits:
+   ELEMENTS_VERTICES                        1048576
+   ELEMENTS_INDICES                         1048576
+   VERTEX_UNITS                             32
+   TESS_CONTROL_TEXTURE_IMAGE_UNITS         32
+   TESS_EVALUATION_TEXTURE_IMAGE_UNITS      32
+   GEOMETRY_UNITS                           32
+   FRAGMENT_IMAGE_UNITS                     32
+   COMBINED_UNITS                           192
+   TEXTURE_SIZE                             16384
+   3D_TEXTURE_SIZE                          2048
+   CUBE_MAP_TEXTURE_SIZE                    16384
+   RECTANGLE_TEXTURE_SIZE                   16384
+   TEXTURE_ARRAY_LAYERS                     2048
+   MAX_COLOR_TEXTURE_SAMPLES                32
+   MAX_DEPTH_TEXTURE_SAMPLES                32
+   FBO_ATTACHMENTS                          8
+   DRAW_BUFFERS                             8
+   VIEWPORT_DIMS                            16384x16384
+   VERTEX_UNIFORMS                          4096
+   FRAGMENT_UNIFORMS                        4096
+   VERTEX_ATTRIBS                           16
+   VERTEX_OUTPUT_COMPONENTS                 128
+   MAX_CLIP_DISTANCES                       8
+   PATCH_VERTICES                           32
+   TESS_GEN_LEVEL                           64
+   TESS_PATCH_COMPONENTS                    120
+   TESS_CONTROL_OUTPUT_COMPONENTS           128
+   TESS_CONTROL_TOTAL_OUTPUT_COMPONENTS     4216
+   TESS_EVALUATION_OUTPUT_COMPONENTS        128
+   GEOMETRY_UNIFORM_COMPONENTS              2048
+   GEOMETRY_INPUT_COMPONENTS                128
+   GEOMETRY_OUTPUT_COMPONENTS               128
+   GEOMETRY_TOTAL_OUTPUT_COMPONENTS         1024
+   GEOMETRY_OUTPUT_VERTICES                 1024
+   UNIFORM_BLOCKS                           84
+   UNIFORM_BLOCK_SIZE                       65536
+   UNIFORM_BUFFER_BINDINGS                  84
+   COMBINED_VERT_UNIFORM_BLOCKS             14
+   COMBINED_VERT_UNIFORM_COMPS              233472
+   TESS_CONTROL_UNIFORM_BLOCKS              14
+   TESS_CONTROL_UNIFORM_COMPONENTS          2048
+   TESS_EVALUATION_UNIFORM_BLOCKS           14
+   TESS_EVALUATION_UNIFORM_COMPONENTS       2048
+   COMBINED_GEO_UNIFORM_BLOCKS              14
+   COMBINED_GEO_UNIFORM_COMPS               231424
+   COMBINED_FRAG_UNIFORM_BLOCKS             14
+   COMBINED_FRAG_UNIFORM_COMPS              233472
+   MAX_FRAGMENT_STORAGE_BLOCKS              16
+   MAX_STORAGE_BLOCK_BINDINGS               96
+   TRANSFORM_FEEDBACK_INT_COMPS             128
+   TRANSFORM_FEEDBACK_SEP_COMPS             4
+   TRANSFORM_FEEDBACK_SEP_ATTRIBS           4
+   LINE_WIDTH_RANGE                         0.5 - 10
+   LINE_WIDTH_GRANULARITY                   0.125
+   POINT_SIZE_RANGE                         1 - 189.875
+   POINT_SIZE_GRANULARITY                   0.125
+
+OpenCL Platform           NVIDIA CUDA
+Platform Vendor           NVIDIA Corporation
+Platform Version          OpenCL 1.2 CUDA 9.0.125
+OpenCL Device             GeForce GTX 970
+OpenCL Type               GPU
+Device Version            OpenCL 1.2 CUDA
+Frequency                 1253 MHz
+Compute Units             13
+Device Address Bits       64
+Global Memory             4096 MB
+Max Allocation            1024 MB
+Global Cache              208 KB
+Max Constant Args         9
+Max Constant Size         64 KB
+Local Mem Size            48 KB
+2D Image Support          16384x16384
+3D Image Support          4096x4096x4096
+
+OpenCL Platform Extensions:
+   cl_khr_global_int32_base_atomics
+   cl_khr_global_int32_extended_atomics
+   cl_khr_local_int32_base_atomics
+   cl_khr_local_int32_extended_atomics
+   cl_khr_fp64
+   cl_khr_byte_addressable_store
+   cl_khr_icd
+   cl_khr_gl_sharing
+   cl_nv_compiler_options
+   cl_nv_device_attribute_query
+   cl_nv_pragma_unroll
+   cl_nv_d3d9_sharing
+   cl_nv_d3d10_sharing
+   cl_khr_d3d10_sharing
+   cl_nv_d3d11_sharing
+   cl_nv_copy_opts
+   cl_nv_create_buffer
+
+OpenCL Device Extensions:
+   cl_khr_global_int32_base_atomics
+   cl_khr_global_int32_extended_atomics
+   cl_khr_local_int32_base_atomics
+   cl_khr_local_int32_extended_atomics
+   cl_khr_fp64
+   cl_khr_byte_addressable_store
+   cl_khr_icd
+   cl_khr_gl_sharing
+   cl_nv_compiler_options
+   cl_nv_device_attribute_query
+   cl_nv_pragma_unroll
+   cl_nv_d3d9_sharing
+   cl_nv_d3d10_sharing
+   cl_khr_d3d10_sharing
+   cl_nv_d3d11_sharing
+   cl_nv_copy_opts
+   cl_nv_create_buffer
+
+Environment:
+    ACTIVETAKE                             Main
+    ADSK_3DSMAX_x64_2016                   D:\Program Files\Autodesk\3ds Max 2016\
+    ADSK_CLM_WPAD_PROXY_CHECK              FALSE
+    ALLUSERSPROFILE                        C:\ProgramData
+    APPDATA                                C:\Users\Administrator\AppData\Roaming
+    CLASSPATH                              .;d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/houdini/scripts/java/sesi.jar
+    CM2014DIR                              C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+    COMPUTERNAME                           KANE-PC
+    CUDA_PATH                              C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5
+    CUDA_PATH_V7_5                         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5
+    ComSpec                                C:\Windows\system32\cmd.exe
+    CommonProgramFiles(x86)                C:\Program Files (x86)\Common Files
+    CommonProgramFiles                     C:\Program Files\Common Files
+    CommonProgramW6432                     C:\Program Files\Common Files
+    FP_NO_HOST_CHECK                       NO
+    GPU_FORCE_64BIT_PTR                    0
+    GPU_MAX_ALLOC_PERCENT                  100
+    GPU_MAX_HEAP_SIZE                      100
+    GPU_SINGLE_ALLOC_PERCENT               100
+    GPU_USE_SYNC_OBJECTS                   1
+    GTK_BASEPATH                           C:\Program Files (x86)\GtkSharp\2.12\
+    H                                      d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571
+    HANDLE_STATUS                          -1
+    HB                                     d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/bin
+    HD                                     d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/demo
+    HFS                                    d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571
+    HH                                     d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/houdini
+    HHC                                    d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/houdini/config
+    HIP                                    d:/Program Files/Side Effects Software/Houdini 16.5.571
+    HIPFILE                                d:/Program Files/Side Effects Software/Houdini 16.5.571/untitled.hip
+    HIPNAME                                untitled
+    HOME                                   C:/Users/Administrator/Documents
+    HOMEDRIVE                              C:
+    HOMEPATH                               \Users\Administrator
+    HOUDINI_DESKTOP_DIR                    C:/Users/Administrator/Desktop
+    HOUDINI_OS                             Windows
+    HOUDINI_QT_PREFERRED_BINDING           PySide2
+    HOUDINI_TEMP_DIR                       C:/Users/Administrator/AppData/Local/Temp/houdini_temp
+    HOUDINI_USER_PREF_DIR                  C:/Users/Administrator/Documents/houdini16.5
+    HOUDINI_VERSION                        16.5.571
+    HSITE                                  d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/site
+    HT                                     d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/toolkit
+    HTB                                    d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/toolkit/bin
+    ILBDIR                                 C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+    INTEL_DEV_REDIST                       C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+    JOB                                    d:/Program Files/Side Effects Software/Houdini 16.5.571
+    LOCALAPPDATA                           C:\Users\Administrator\AppData\Local
+    LOGONSERVER                            \\KANE-PC
+    MIC_LD_LIBRARY_PATH                    C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+    NUMBER_OF_PROCESSORS                   8
+    NVCUDASAMPLES7_5_ROOT                  C:\ProgramData\NVIDIA Corporation\CUDA Samples\v7.5
+    NVCUDASAMPLES_ROOT                     C:\ProgramData\NVIDIA Corporation\CUDA Samples\v7.5
+    NVTOOLSEXT_PATH                        C:\Program Files\NVIDIA Corporation\NvToolsExt\
+    OS                                     Windows_NT
+    OneDrive                               C:\Users\Administrator\OneDrive
+    PATH                                   d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/python27;d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/bin;d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/toolkit/bin;d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/bin;d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/toolkit/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Administrator\Anaconda3;C:\Users\Administrator\Anaconda3\Library\mingw-w64\bin;C:\Users\Administrator\Anaconda3\Library\usr\bin;C:\Users\Administrator\Anaconda3\Library\bin;C:\Users\Administrator\Anaconda3\Scripts
+    PATHEXT                                .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    POSE                                   C:/Users/Administrator/Documents/houdini16.5/poselib
+    PROCESSOR_ARCHITECTURE                 AMD64
+    PROCESSOR_IDENTIFIER                   Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+    PROCESSOR_LEVEL                        6
+    PROCESSOR_REVISION                     3c03
+    PSModulePath                           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    PUBLIC                                 C:\Users\Public
+    PYTHONHOME                             d:/PROGRA~1/SIDEEF~1/HOUDIN~1.571/python27
+    ProgramData                            C:\ProgramData
+    ProgramFiles(x86)                      C:\Program Files (x86)
+    ProgramFiles                           C:\Program Files
+    ProgramW6432                           C:\Program Files
+    QT_D3DCREATE_MULTITHREADED             1
+    SystemDrive                            C:
+    SystemRoot                             C:\Windows
+    TEMP                                   C:/Users/Administrator/AppData/Local/Temp/houdini_temp
+    TMP                                    C:\Users\Administrator\AppData\Local\Temp
+    USER                                   Administrator
+    USERDOMAIN                             kane-PC
+    USERNAME                               Administrator
+    USERPROFILE                            C:\Users\Administrator
+    VS140COMNTOOLS                         C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+    _HIP_SHELFTOOLCOUNT                    15
+    envContainerTelemetryApiCmdLine        -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"
+    envContainerTelemetryApiCmdLineX86     -st "C:\Program Files (x86)\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"
+    windir                                 C:\Windows
+    windows_tracing_flags                  3
+    windows_tracing_logfile                C:\BVTBin\Tests\installpackage\csilogfile.log
+
